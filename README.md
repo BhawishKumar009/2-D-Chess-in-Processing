@@ -1,5 +1,5 @@
 # 2-D-Chess-in-Processing
-
+# PLEASE INSTALL MINIM LIBRARY IN PROCESSING BEFORE RUNNING THE CODE
 This 2D chess game implementation in Python demonstrates a creative twist on the classic chess gameplay. By allowing the capture of the King, the game introduces a fresh and exciting dynamic that challenges traditional chess strategies.
 
 The program's structure is well-organized, with distinct stages that guide the user through the experience. The MENU, INSTRUCTIONS, PLAY, and RESULT screens provide a clear and intuitive flow, making it easy for players to navigate the game.
